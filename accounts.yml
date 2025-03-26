@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Eazybank Accounts Service"
+  contactDetails:
+    name: "Madhurya Koneri"
+    email: "example@gmail"
+  onCallSupport:
+    -(555) 555-5555
+    -(555) 555-5556

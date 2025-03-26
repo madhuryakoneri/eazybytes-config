@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Eazybank Loans Prod Service"
+  contactDetails:
+    name: "Madhurya Koneri"
+    email: "example@gmail"
+  onCallSupport:
+    -(777) 555-5577
+    -(777) 555-5578

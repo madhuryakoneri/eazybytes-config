@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Eazybank Cards Prod Service"
+  contactDetails:
+    name: "Madhurya Koneri"
+    email: "example@gmail"
+  onCallSupport:
+    -(777) 555-5567
+    -(777) 555-5568

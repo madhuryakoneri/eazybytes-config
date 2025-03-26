@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Eazybank Loans Service"
+  contactDetails:
+    name: "Madhurya Koneri"
+    email: "example@gmail"
+  onCallSupport:
+    -(555) 555-5577
+    -(555) 555-5578

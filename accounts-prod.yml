@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazybank Accounts Prod Service"
+  contactDetails:
+    name: "Madhurya Koneri"
+    email: "example@gmail"
+  onCallSupport:
+    -(777) 555-5555
+    -(777) 555-5556
